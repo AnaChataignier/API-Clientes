@@ -11,4 +11,4 @@ API Rest, feita na formação de Django REST da Alura! Deploy realizado na AWS
 
 ![]("http://13.58.227.115:8000/clientes/")
 
-Site feito na formação da Alura em Django. Veja aqui [o resultado final]("http://13.58.227.115:8000/clientes/")
+Veja aqui [o resultado final]("http://13.58.227.115:8000/clientes/")
