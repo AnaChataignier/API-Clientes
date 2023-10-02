@@ -1,5 +1,5 @@
 # API-Clientes
-API Rest, feita na formação de Django REST da Alura! Deploy realizado na AWS
+API Rest que retorna dados de clientes, com filtros de busca! Projeto feito na formação de Django REST da Alura! Deploy realizado na AWS
 
 | Dev   |[Ana Chataignier](https://www.linkedin.com/in/ana-chataignier-6a3768263/)|
 | ------------------------  | --- |
